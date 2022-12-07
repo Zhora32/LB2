@@ -1,0 +1,37 @@
+header {
+	margin: 0 auto;
+	height: 150px;
+	background-color: DeepSkyBlue;
+
+}
+
+nav	{
+	float:left;
+	width: 400px;
+	height: 50px;
+	background-color: red;
+}
+
+article {
+	width: 13%;
+	height: 99px;
+	background-color: Silver;
+	float: right;
+}
+
+main {
+	width: 100%;
+	height: 130%;
+	background-color: LightGreen;
+	float: left;
+}
+
+footer {
+	width: 100%;
+	height: 150px;
+	background-color: Plum;
+}
+
+#as_main {
+height: 250px
+}
